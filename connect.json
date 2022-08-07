@@ -1,6 +1,11 @@
 {
   "appName": "oniMacro",
   "appVersion": "v1.0",
+  "updater": {
+    "newFile": "",
+    "oldFileName": "oniMacro v1.0",
+    "newFileName": "oniMacro v2.0"
+  },
   "customers": [
     {
       "contactPlatform": "discord",
