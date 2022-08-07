@@ -1,7 +1,7 @@
 {
   "appName": "oniMacro",
   "appVersion": "v1.0",
-  "hwids": [
+  "customers": [
     {
       "contactPlatform": "discord",
       "contactAdress": "Küfürlü Sözler#0001",
